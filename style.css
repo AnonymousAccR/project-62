@@ -1,0 +1,39 @@
+#row1 img {
+    
+    width: 200px;
+    height 200px;
+    padding: 9px;
+    border: solid;
+}
+
+
+
+#row2 img {
+    
+    width: 200px;
+    height 200px;
+    padding: 9px;
+    border: solid;
+}
+
+.container {
+    
+    text-align: center;
+    
+    
+}
+
+#myCarousel img {
+    
+    width: 200px;
+    height 200px;
+    margin: 20px;
+}
+
+
+
+body {
+    
+    
+    background: grey;
+}
